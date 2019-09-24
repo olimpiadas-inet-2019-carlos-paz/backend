@@ -25,7 +25,7 @@ SECRET_KEY = 'rf2je$#2_yh0(g+_gjswjbg%-aa-hy4%1hl-)3c%*1=)s3r7!)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
